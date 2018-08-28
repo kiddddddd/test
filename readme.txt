@@ -8,3 +8,4 @@ yeah~!
 5
 I have a git !
 I have a new branch !
+I write sth in master
